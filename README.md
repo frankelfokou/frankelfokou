@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 🎓 Graduating computer science student
+- 🌐 Learning web development
+- #️⃣ Learning .NET environment 
+
 
 <!--
 **frankelfokou/frankelfokou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
